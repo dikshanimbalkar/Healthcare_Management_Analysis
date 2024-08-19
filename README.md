@@ -8,7 +8,7 @@ The number of new patients and re-admitted patients is raising year by year sign
 
 Therefore, the pressure for hospital management is also increased to be able to serve patients in all conditions.
 
-Some of the concerns from the management are:
+📚 Some of the concerns from the management are:
 
 ◆ The hospital's performance in managing the hospital capacity for all patients.
 
