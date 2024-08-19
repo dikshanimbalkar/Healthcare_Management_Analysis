@@ -1,6 +1,6 @@
 # Healthcare Management Analysis Project with SQL
 
-# INTRODUCTION
+ INTRODUCTION
 
 Diabetes is one of the top 10 causes of death globally according to World Health Organization.
 
